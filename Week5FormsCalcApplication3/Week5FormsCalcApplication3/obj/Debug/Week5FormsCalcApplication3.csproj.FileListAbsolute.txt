@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\Week5FormsCalcApplication3\Week5FormsCalcApplication3\bin\Debug\Week5FormsCalcApplication3.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Week5FormsCalcApplication3\Week5FormsCalcApplication3\bin\Debug\Week5FormsCalcApplication3.exe
+c:\users\admin\documents\visual studio 2015\Projects\Week5FormsCalcApplication3\Week5FormsCalcApplication3\bin\Debug\Week5FormsCalcApplication3.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Week5FormsCalcApplication3\Week5FormsCalcApplication3\obj\Debug\Week5FormsCalcApplication3.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Week5FormsCalcApplication3\Week5FormsCalcApplication3\obj\Debug\Week5FormsCalcApplication3.Calculator.resources
+c:\users\admin\documents\visual studio 2015\Projects\Week5FormsCalcApplication3\Week5FormsCalcApplication3\obj\Debug\Week5FormsCalcApplication3.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\Week5FormsCalcApplication3\Week5FormsCalcApplication3\obj\Debug\Week5FormsCalcApplication3.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\Week5FormsCalcApplication3\Week5FormsCalcApplication3\obj\Debug\Week5FormsCalcApplication3.exe
+c:\users\admin\documents\visual studio 2015\Projects\Week5FormsCalcApplication3\Week5FormsCalcApplication3\obj\Debug\Week5FormsCalcApplication3.pdb

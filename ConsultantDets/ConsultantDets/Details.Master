@@ -1,0 +1,49 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Details.Master.cs" Inherits="ConsultantDets.Dets" %>
+<%@ Import Namespace="System.Data.SqlClient" %>
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+   
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+       <h1 style =" color:mediumslateblue">Consultant Details</h1>
+
+        <table>
+            <tr >
+
+                <td style="width:200px">
+
+                </td>
+                 <asp:ContentPlaceHolder ID="head" runat="server">
+                </asp:ContentPlaceHolder>
+
+            </tr>
+
+        </table>
+
+
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+        <asp:Label ID="Label1" runat="server" Text="Name"></asp:Label>
+&nbsp;
+        <asp:TextBox ID="NameValue" runat="server" OnTextChanged="NameValue_TextChanged"></asp:TextBox>
+        <br />
+        <asp:Label ID="Label2" runat="server" Text="Address"></asp:Label>
+        <asp:TextBox ID="Address" runat="server"></asp:TextBox>
+        <br />
+        Email
+        <asp:TextBox ID="EmaillEntry" runat="server"></asp:TextBox>
+        <br />
+        <br />
+        <asp:Button ID="Button1" runat="server" OnClick="Button1_Click" Text="Add Email" />
+        <br />
+        <br />
+    </div>
+    </form>
+</body>
+</html>

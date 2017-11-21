@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\SpecCharFormsApplication3\SpecCharFormsApplication3\bin\Debug\SpecCharFormsApplication3.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\SpecCharFormsApplication3\SpecCharFormsApplication3\bin\Debug\SpecCharFormsApplication3.exe
+c:\users\admin\documents\visual studio 2015\Projects\SpecCharFormsApplication3\SpecCharFormsApplication3\bin\Debug\SpecCharFormsApplication3.pdb
+c:\users\admin\documents\visual studio 2015\Projects\SpecCharFormsApplication3\SpecCharFormsApplication3\obj\Debug\SpecCharFormsApplication3.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\SpecCharFormsApplication3\SpecCharFormsApplication3\obj\Debug\SpecCharFormsApplication3.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\SpecCharFormsApplication3\SpecCharFormsApplication3\obj\Debug\SpecCharFormsApplication3.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\SpecCharFormsApplication3\SpecCharFormsApplication3\obj\Debug\SpecCharFormsApplication3.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\SpecCharFormsApplication3\SpecCharFormsApplication3\obj\Debug\SpecCharFormsApplication3.exe
+c:\users\admin\documents\visual studio 2015\Projects\SpecCharFormsApplication3\SpecCharFormsApplication3\obj\Debug\SpecCharFormsApplication3.pdb

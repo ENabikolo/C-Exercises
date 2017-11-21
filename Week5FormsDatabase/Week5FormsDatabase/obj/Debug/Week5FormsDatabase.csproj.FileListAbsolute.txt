@@ -1,0 +1,11 @@
+c:\users\admin\documents\visual studio 2015\Projects\Week5FormsDatabase\Week5FormsDatabase\bin\Debug\Week5FormsDatabase.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Week5FormsDatabase\Week5FormsDatabase\bin\Debug\Database1.mdf
+c:\users\admin\documents\visual studio 2015\Projects\Week5FormsDatabase\Week5FormsDatabase\bin\Debug\Database1_log.ldf
+c:\users\admin\documents\visual studio 2015\Projects\Week5FormsDatabase\Week5FormsDatabase\bin\Debug\Week5FormsDatabase.exe
+c:\users\admin\documents\visual studio 2015\Projects\Week5FormsDatabase\Week5FormsDatabase\bin\Debug\Week5FormsDatabase.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Week5FormsDatabase\Week5FormsDatabase\obj\Debug\Week5FormsDatabase.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Week5FormsDatabase\Week5FormsDatabase\obj\Debug\Week5FormsDatabase.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\Week5FormsDatabase\Week5FormsDatabase\obj\Debug\Week5FormsDatabase.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\Week5FormsDatabase\Week5FormsDatabase\obj\Debug\Week5FormsDatabase.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\Week5FormsDatabase\Week5FormsDatabase\obj\Debug\Week5FormsDatabase.exe
+c:\users\admin\documents\visual studio 2015\Projects\Week5FormsDatabase\Week5FormsDatabase\obj\Debug\Week5FormsDatabase.pdb

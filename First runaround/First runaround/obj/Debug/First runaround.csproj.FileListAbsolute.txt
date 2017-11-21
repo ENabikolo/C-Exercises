@@ -1,0 +1,33 @@
+c:\users\admin\documents\visual studio 2015\Projects\First runaround\First runaround\bin\ApplicationInsights.config
+c:\users\admin\documents\visual studio 2015\Projects\First runaround\First runaround\bin\roslyn\csc.exe
+c:\users\admin\documents\visual studio 2015\Projects\First runaround\First runaround\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\admin\documents\visual studio 2015\Projects\First runaround\First runaround\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\admin\documents\visual studio 2015\Projects\First runaround\First runaround\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\admin\documents\visual studio 2015\Projects\First runaround\First runaround\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\admin\documents\visual studio 2015\Projects\First runaround\First runaround\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\admin\documents\visual studio 2015\Projects\First runaround\First runaround\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\admin\documents\visual studio 2015\Projects\First runaround\First runaround\bin\roslyn\System.Collections.Immutable.dll
+c:\users\admin\documents\visual studio 2015\Projects\First runaround\First runaround\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\admin\documents\visual studio 2015\Projects\First runaround\First runaround\bin\roslyn\vbc.exe
+c:\users\admin\documents\visual studio 2015\Projects\First runaround\First runaround\bin\roslyn\VBCSCompiler.exe
+c:\users\admin\documents\visual studio 2015\Projects\First runaround\First runaround\bin\roslyn\VBCSCompiler.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\First runaround\First runaround\bin\First runaround.dll.config
+c:\users\admin\documents\visual studio 2015\Projects\First runaround\First runaround\bin\First runaround.dll
+c:\users\admin\documents\visual studio 2015\Projects\First runaround\First runaround\bin\First runaround.pdb
+c:\users\admin\documents\visual studio 2015\Projects\First runaround\First runaround\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\admin\documents\visual studio 2015\Projects\First runaround\First runaround\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\admin\documents\visual studio 2015\Projects\First runaround\First runaround\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\admin\documents\visual studio 2015\Projects\First runaround\First runaround\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\admin\documents\visual studio 2015\Projects\First runaround\First runaround\bin\Microsoft.AI.Web.dll
+c:\users\admin\documents\visual studio 2015\Projects\First runaround\First runaround\bin\Microsoft.AI.WindowsServer.dll
+c:\users\admin\documents\visual studio 2015\Projects\First runaround\First runaround\bin\Microsoft.ApplicationInsights.dll
+c:\users\admin\documents\visual studio 2015\Projects\First runaround\First runaround\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\admin\documents\visual studio 2015\Projects\First runaround\First runaround\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\admin\documents\visual studio 2015\Projects\First runaround\First runaround\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\admin\documents\visual studio 2015\Projects\First runaround\First runaround\bin\Microsoft.AI.Web.xml
+c:\users\admin\documents\visual studio 2015\Projects\First runaround\First runaround\bin\Microsoft.AI.WindowsServer.xml
+c:\users\admin\documents\visual studio 2015\Projects\First runaround\First runaround\bin\Microsoft.ApplicationInsights.xml
+c:\users\admin\documents\visual studio 2015\Projects\First runaround\First runaround\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\admin\documents\visual studio 2015\Projects\First runaround\First runaround\obj\Debug\First runaround.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\First runaround\First runaround\obj\Debug\First runaround.dll
+c:\users\admin\documents\visual studio 2015\Projects\First runaround\First runaround\obj\Debug\First runaround.pdb

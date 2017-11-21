@@ -1,0 +1,10 @@
+c:\users\admin\documents\visual studio 2015\Projects\Week5MultiFormsApplication\Week5MultiFormsApplication\bin\Debug\Week5MultiFormsApplication.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Week5MultiFormsApplication\Week5MultiFormsApplication\bin\Debug\Week5MultiFormsApplication.exe
+c:\users\admin\documents\visual studio 2015\Projects\Week5MultiFormsApplication\Week5MultiFormsApplication\bin\Debug\Week5MultiFormsApplication.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Week5MultiFormsApplication\Week5MultiFormsApplication\obj\Debug\Week5MultiFormsApplication.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Week5MultiFormsApplication\Week5MultiFormsApplication\obj\Debug\Week5MultiFormsApplication.Form2.resources
+c:\users\admin\documents\visual studio 2015\Projects\Week5MultiFormsApplication\Week5MultiFormsApplication\obj\Debug\Week5MultiFormsApplication.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\Week5MultiFormsApplication\Week5MultiFormsApplication\obj\Debug\Week5MultiFormsApplication.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\Week5MultiFormsApplication\Week5MultiFormsApplication\obj\Debug\Week5MultiFormsApplication.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\Week5MultiFormsApplication\Week5MultiFormsApplication\obj\Debug\Week5MultiFormsApplication.exe
+c:\users\admin\documents\visual studio 2015\Projects\Week5MultiFormsApplication\Week5MultiFormsApplication\obj\Debug\Week5MultiFormsApplication.pdb

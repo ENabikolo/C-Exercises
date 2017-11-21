@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2015\Projects\Week5FormsEditor\Week5FormsEditor\bin\Debug\Week5FormsEditor.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Week5FormsEditor\Week5FormsEditor\bin\Debug\Week5FormsEditor.exe
+c:\users\admin\documents\visual studio 2015\Projects\Week5FormsEditor\Week5FormsEditor\bin\Debug\Week5FormsEditor.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Week5FormsEditor\Week5FormsEditor\obj\Debug\Week5FormsEditor.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Week5FormsEditor\Week5FormsEditor\obj\Debug\Week5FormsEditor.Form1.resources
+c:\users\admin\documents\visual studio 2015\Projects\Week5FormsEditor\Week5FormsEditor\obj\Debug\Week5FormsEditor.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\Week5FormsEditor\Week5FormsEditor\obj\Debug\Week5FormsEditor.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\Week5FormsEditor\Week5FormsEditor\obj\Debug\Week5FormsEditor.exe
+c:\users\admin\documents\visual studio 2015\Projects\Week5FormsEditor\Week5FormsEditor\obj\Debug\Week5FormsEditor.pdb

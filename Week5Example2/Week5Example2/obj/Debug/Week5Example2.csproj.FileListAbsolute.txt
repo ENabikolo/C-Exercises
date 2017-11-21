@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2015\Projects\Week5Example2\Week5Example2\bin\Debug\Week5Example2.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Week5Example2\Week5Example2\bin\Debug\Week5Example2.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Week5Example2\Week5Example2\bin\Debug\Week5Example2.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Week5Example2\Week5Example2\obj\Debug\Week5Example2.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Week5Example2\Week5Example2\obj\Debug\Week5Example2.pdb

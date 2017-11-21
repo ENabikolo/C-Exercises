@@ -1,0 +1,13 @@
+c:\users\admin\documents\visual studio 2015\Projects\Week5FormsBankSystem\Week5FormsBankSystem\bin\Debug\Week5FormsBankSystem.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\Week5FormsBankSystem\Week5FormsBankSystem\bin\Debug\Database1.mdf
+c:\users\admin\documents\visual studio 2015\Projects\Week5FormsBankSystem\Week5FormsBankSystem\bin\Debug\Database1_log.ldf
+c:\users\admin\documents\visual studio 2015\Projects\Week5FormsBankSystem\Week5FormsBankSystem\bin\Debug\Week5FormsBankSystem.exe
+c:\users\admin\documents\visual studio 2015\Projects\Week5FormsBankSystem\Week5FormsBankSystem\bin\Debug\Week5FormsBankSystem.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Week5FormsBankSystem\Week5FormsBankSystem\obj\Debug\Week5FormsBankSystem.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\Week5FormsBankSystem\Week5FormsBankSystem\obj\Debug\Week5FormsBankSystem.Form2.resources
+c:\users\admin\documents\visual studio 2015\Projects\Week5FormsBankSystem\Week5FormsBankSystem\obj\Debug\Week5FormsBankSystem.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2015\Projects\Week5FormsBankSystem\Week5FormsBankSystem\obj\Debug\Week5FormsBankSystem.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2015\Projects\Week5FormsBankSystem\Week5FormsBankSystem\obj\Debug\Week5FormsBankSystem.exe
+c:\users\admin\documents\visual studio 2015\Projects\Week5FormsBankSystem\Week5FormsBankSystem\obj\Debug\Week5FormsBankSystem.pdb
+c:\users\admin\documents\visual studio 2015\Projects\Week5FormsBankSystem\Week5FormsBankSystem\obj\Debug\Week5FormsBankSystem.Accounts.resources
+c:\users\admin\documents\visual studio 2015\Projects\Week5FormsBankSystem\Week5FormsBankSystem\obj\Debug\Week5FormsBankSystem.Deposits.resources
