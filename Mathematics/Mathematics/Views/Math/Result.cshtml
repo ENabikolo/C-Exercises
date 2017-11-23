@@ -1,0 +1,26 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Result</title>
+</head>
+<body>
+    <div> 
+   
+         @{ 
+             Response.Write("First No is: "+ ViewData["a"]); <br/>
+             Response.Write("Second No is: "+ ViewData["b"]);<br/>
+            Response.Write("Result is: "+ ViewData["c"]);
+
+        }
+        
+    </div>
+
+</body>
+</html>
